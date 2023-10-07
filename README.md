@@ -22,8 +22,8 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compile for Production
 
 ```sh
-npm run build
+npm run make
 ```
